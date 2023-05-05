@@ -1,5 +1,5 @@
 
 import streamlit as app
-import snoflake.connector
+import snowflake.connector
 
 app.title('RaaS Web Catalog')
